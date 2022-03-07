@@ -1,9 +1,10 @@
 # Database Languages
 
 - DCL (Data Control Language) :: Controls access to data.
-- DDL (Data Definition Language) :: Defines datatypes like creating, altering, or dropping tables and relationships amongst them.
+- DDL (Data Definition Language) :: Defines datatypes like creating, altering, or dropping tables and relationships amongst them (Schema)
 - DML (Data Manipulation Language) :: Performs insertions, deletion and updates the data.
 - DQL (Data Query Language) :: Performs searching for data.
+- TCL (Transaction Control Language) :: Groups SQL commands (Transactions)
 
 ## Database languages are specific to a data model
 
