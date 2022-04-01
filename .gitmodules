@@ -1,0 +1,3 @@
+[submodule "Languages"]
+	path = Languages
+	url = git@github.com:TheFenrisLycaon/Learning
