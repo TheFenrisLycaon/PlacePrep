@@ -36,7 +36,7 @@
 
 ## Scheduling
 
-## Memory Mnagement
+## Memory Management
 
 - How does the memory model designed in operating systems?
 - How does memory management work in operating systems?
