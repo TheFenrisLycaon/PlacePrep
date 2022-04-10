@@ -3,6 +3,8 @@
 ## Intro
 
 - What are operating systems?
+- Block Diagram
+- Memory Heirarchy
 - Types
 - Services
 - Properties
