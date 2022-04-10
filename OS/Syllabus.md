@@ -1,18 +1,18 @@
 # Syllabus
 
-## BASIC
+## Basic
 
-- Introduction of Operating System
-- Types of Operating Systems
-- Functions of Operating System
-- Real time systems
-- Tasks in Real Time systems
-- Difference between multitasking, multithreading and multiprocessing
-- Types of computer memory (RAM and ROM)
-- Difference between 32-bit and 64-bit operating systems
-- What happens when we turn on computer?
-- Boot Block
-- UEFI(Unified Extensible Firmware Interface) and how is it different from BIOS
+- [Introduction of Operating System](./Basic/01-Introduction.md)
+- [Types of Operating Systems](./Basic/02-TypesOfOS.md)
+- [Functions of Operating System](./Basic/03-Functions.md)
+- [Real time systems](./Basic/04-RTOS.md)
+- [Types of computer memory (RAM and ROM)](./Basic/06-TypesOfMemory.md)
+- [Differences](./Basic/07-Differences.md)
+  - [Multi-tasking VS Multi-threading VS Multi-processing](./Basic/07-Differences.md#multi-tasking-vs-multi-threading-vs-multi-processing)
+  - [32-bit and 64-bit](./Basic/07-Differences.md#32-bit-vs-64-bit)
+- [What happens when we turn on computer?](./Basic/08-BootUp.md)
+- [Boot Block](./Basic/09-BootBlock.md)
+- [UEFI](./Basic/10-UEFI.md)
 
 ## System Structure
 
