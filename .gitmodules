@@ -1,3 +1,6 @@
 [submodule "Languages"]
 	path = Languages
 	url = git@github.com:TheFenrisLycaon/Learning
+[submodule "Algorithms/DSA-C--"]
+	path = Algorithms/DSA-C--
+	url = git@github.com:TheFenrisLycaon/DSA-C--.git
